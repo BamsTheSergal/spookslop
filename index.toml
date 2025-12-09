@@ -361,6 +361,11 @@ hash = "cf5f6e8ccb3c217fff97ffef4554d1de6cd3066519a33729a8e0cebaae30a1a7"
 metafile = true
 
 [[files]]
+file = "mods/from-the-fog.pw.toml"
+hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
 metafile = true
@@ -768,11 +773,6 @@ metafile = true
 [[files]]
 file = "mods/tct-core.pw.toml"
 hash = "933644a667a8640182a5f8c8481bb7dc59ce648264d0d049f2c0a1bfd14e7dee"
-metafile = true
-
-[[files]]
-file = "mods/tenebrisque.pw.toml"
-hash = "48fbc296a2b24cbc1126769a9eea6556c606c3e6e6e6abca24ba17c5d7826049"
 metafile = true
 
 [[files]]
