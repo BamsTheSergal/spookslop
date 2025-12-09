@@ -481,6 +481,11 @@ hash = "c8c469eba459142ab77fa95b0ebf88fac0cb20363d77a9fa505a5eba2d0334d3"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "66bcfe786e6bbdee6f7ea0805ec3d2561b41285a5c77f1e465e80f4c2fd9200c"
+metafile = true
+
+[[files]]
 file = "mods/lunar.pw.toml"
 hash = "9ca8bdf846d7ceb5df351f4485908870f7f882ff752080aa986970fa51925fc1"
 metafile = true
@@ -513,6 +518,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "27cd835739eabf2e0dc092cb9670a954c6a94c193ce587178a1d1f69504fbdc1"
 metafile = true
 
 [[files]]
