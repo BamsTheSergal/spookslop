@@ -761,11 +761,6 @@ hash = "8fa597b487ad567a8d1f552bd70a6ed1e23e101630e0a993f354e8e4e7b8fc8e"
 metafile = true
 
 [[files]]
-file = "mods/true-darkness-forge-updated-fork.pw.toml"
-hash = "4e783ca2336af03823a355e60c72f3e8d743ae9e5936d314adf43113adeb618a"
-metafile = true
-
-[[files]]
 file = "mods/tvcraft-the-legend-of-tenna.pw.toml"
 hash = "714d38c11a698f854624666b364442954128c924110e2829fd9a191be30f3d79"
 metafile = true
