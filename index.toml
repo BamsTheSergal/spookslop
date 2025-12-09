@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance.pw.toml"
-hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
+hash = "bfce4b91fe7c691dc04afda24f60453a74f49c8d3cf763e80095673d1299375d"
 metafile = true
 
 [[files]]
@@ -643,11 +643,6 @@ metafile = true
 [[files]]
 file = "mods/sleep-in-darkness.pw.toml"
 hash = "a841280c51b4841e809b42ab20b7d1d9cd57b37e69038b019c2bce43daa30588"
-metafile = true
-
-[[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "8b001d223c2458eed8970eb699974cb73d93b75c6ceee62b5f61be85913b98ac"
 metafile = true
 
 [[files]]
