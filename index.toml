@@ -26,6 +26,11 @@ hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
 
 [[files]]
+file = "mods/art-of-forging-a-tetra-addon.pw.toml"
+hash = "e7a896b4567d9d51f6efeac1c1aa0c81416c00dc858fa07105764d0304f3c774"
+metafile = true
+
+[[files]]
 file = "mods/atmospheric.pw.toml"
 hash = "f0bff16ef9b04e0bec1c925be8bdfe3373bd44a53e2406d58ecb2003fa647bfa"
 metafile = true
@@ -351,6 +356,16 @@ hash = "cf5f6e8ccb3c217fff97ffef4554d1de6cd3066519a33729a8e0cebaae30a1a7"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "48e2fa3089beed20a23ff2d171259768b2080ab0ff196841a18eb93c38e1c8b2"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "1c383e66311b5edd6d7116ae0544108d60450f58e94853126665d75d85561d68"
+metafile = true
+
+[[files]]
 file = "mods/galosphere.pw.toml"
 hash = "1be92368ec20f1f493c46ad2afdccd1caf3bf605f54862d8badd3f25c9729df0"
 metafile = true
@@ -518,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "6161befd655a400fb4a07d8702b62c3f24f828d5ee6336c3dcacd6bcaff78fc1"
 metafile = true
 
 [[files]]
@@ -743,6 +763,31 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
+file = "mods/tetra-booster-pack.pw.toml"
+hash = "3e0cac856f0dbcbfcc7121363d0f41ebbd21e56df5ea262ebb836f5e9c9e493d"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "6d7d7e9056c82d805e0957f33d8dac048a3a193d91ca7e655e12d4bade9eb4d8"
+metafile = true
+
+[[files]]
+file = "mods/tetracelium.pw.toml"
+hash = "40070ccdbae58ee140f3c41b94abb61e88d2496348b00f0b601abab70f0c111a"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "e1c67611aa8ac579d7299e273cac8798b28927b9366ec799cc5133cced89d958"
+metafile = true
+
+[[files]]
+file = "mods/tetras-delight.pw.toml"
+hash = "07c4fff4a24c28c775d004af359483468ff1046189c357b52e63f4fc61be1abd"
 metafile = true
 
 [[files]]
