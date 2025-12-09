@@ -576,11 +576,6 @@ hash = "8c65958007f81cdf1a57dac999ec7ffdde17cce6154c9a2f75bbb389fd11efbf"
 metafile = true
 
 [[files]]
-file = "mods/public-gui-announcement.pw.toml"
-hash = "b00a86cf47dcf66ea36095f41b4879233177d1a73193ab100064e6569f98fda2"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
 metafile = true
