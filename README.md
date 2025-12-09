@@ -10,7 +10,6 @@
 - BaguetteLib
 - [BedBenefits](https://www.curseforge.com/minecraft/mc-mods/bed-benefits)
 - [Better Foliage](https://github.com/eerussianguy/Better-Foliage)
-- Better Forests
 - Better Third Person
 - [Biomancy 2](https://modrinth.com/mod/biomancy)
 - [Blood N' Particles Mod](https://discord.gg/N6TsrGvzvZ)
