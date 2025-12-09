@@ -1,0 +1,13 @@
+name = "VR Throwing Extensions"
+filename = "vte-forge-1.20.1-1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fca89e8985b48ae116b0c20f5c48f13d5b96f4c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7292247
+project-id = 1374432

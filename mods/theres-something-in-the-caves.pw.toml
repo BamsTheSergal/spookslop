@@ -1,0 +1,13 @@
+name = "There's something in the caves"
+filename = "there_is_something_in_the_caves-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5ff8855fd948fd21b6ebd54a3d039bdcd8a2f8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6014240
+project-id = 827291

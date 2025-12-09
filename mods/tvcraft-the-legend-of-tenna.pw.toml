@@ -1,0 +1,13 @@
+name = "TVCraft: The Legend of Tenna"
+filename = "tv_craft_backport-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54464cb296f8b72fb14a2c3562875210e9a673ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7283155
+project-id = 1388749

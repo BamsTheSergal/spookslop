@@ -1,0 +1,13 @@
+name = "Tenebrisque"
+filename = "tenebrisque-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "578c45cf1e8ba30139c27e4439c79c298a56b962"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7112592
+project-id = 1366225

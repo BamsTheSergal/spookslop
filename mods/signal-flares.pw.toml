@@ -1,0 +1,13 @@
+name = "Signal Flares"
+filename = "signal_flares-1.4.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d5a3bb2a0528a9d1c0e3c31908ac711c2f7f6b48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7245665
+project-id = 1166889
