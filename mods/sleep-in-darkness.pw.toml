@@ -1,13 +1,8 @@
-name = "Sleep In Darkness"
-filename = "sleep_in_darkness-forge-1.21.5-21.5.0.jar"
+name = "sleep_in_darkness"
+filename = "sleep_in_darkness-1.20.1-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wldOCaX5/versions/naQ4lZdP/sleep_in_darkness-forge-1.21.5-21.5.0.jar"
-hash-format = "sha512"
-hash = "a4a546ee7436fc2808be80bdc6b38f07ab194baf9c37b250114fdb6931dd846a8090b1b5b975e11c21c5a53f7a90752cff3a8cf1cd03ea7269a5fea5b725b446"
-
-[update]
-[update.modrinth]
-mod-id = "wldOCaX5"
-version = "naQ4lZdP"
+url = "https://mediafilez.forgecdn.net/files/6110/563/sleep_in_darkness-1.20.1-1.2.1.jar"
+hash-format = "sha256"
+hash = "64f828ecac619aa7fba716181ab702ee731fe50789918bc0a054f9a7711d929b"
