@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby-reforged.pw.toml"
-hash = "2a332a8963ab384a27f5257d38f9b78ad6d94f591dfd2eb14439d43abd5685da"
+hash = "c91d2c1a31238bbff9a84b119ecdb77f7673d578c6b68ea324e72c4e65b016a4"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
-hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
+hash = "00a06884a4f8854fad85f2456c1d6c53ee09cc5e545a35e41cad24e82907a1ab"
 metafile = true
 
 [[files]]
@@ -292,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "33233b588be9b7445e87c4b4ff472ffbcb9e36fe0ed2002149140b309ac5849f"
+hash = "d2c310930fa6758d07494e303f9b8624bf5f87c5060d65340821651a7814af64"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "73ddf3a0c3c88b91fcf94d0e188ced440f22d563d9aa566af206b4cd464e890a"
+hash = "049ddd4531f8f889e39fa5e35ab013cab38312d83db75fca24dc09f222bc9c21"
 metafile = true
 
 [[files]]
