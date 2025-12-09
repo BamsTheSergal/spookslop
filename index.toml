@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
@@ -67,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/blood-n-particles-mod.pw.toml"
-hash = "2f40f6c9400576e858b0ddfad1c47afb08eab42e3e12ac2431296481e8ceb874"
+hash = "cefea68bf7ff9e615fe6ab443d7952a1545f29f95efe22a2fdb894e51e6a56b5"
 metafile = true
 
 [[files]]
@@ -107,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/butchers-delight-foods.pw.toml"
-hash = "fff3fa4a2444abadb8d9c6353425ff4fffc9a0df340af66f02ece6c9cf82121a"
+hash = "80933837c0b6998cd1127248e1a714721b9ee49eb3bbaecf3b931598fd18fa69"
 metafile = true
 
 [[files]]
 file = "mods/butchers-delight.pw.toml"
-hash = "159896d791b8879e561fce55ca2b3e7fc9377b3a3484a831ac9a0e2a560dae9e"
+hash = "8fb344ccd4a719e2b130723514a4f4ee6bd38ae52eaf962b0b6ccb1bf07d15d6"
 metafile = true
 
 [[files]]
@@ -367,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexerei.pw.toml"
-hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
+hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
@@ -457,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/localized-chat.pw.toml"
-hash = "8ea9122b11e3ac8c083960dd4e3306179df392825ec26befd692dbd177a1e75e"
+hash = "c8c469eba459142ab77fa95b0ebf88fac0cb20363d77a9fa505a5eba2d0334d3"
 metafile = true
 
 [[files]]
@@ -507,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "c3801ef22e3efbe966908b6abab485f6646b36affb4f218b5a7e6b7b0abb91c7"
+hash = "59a9bbe68d16fdb5955d9775cca44093e43660d67b3ab4fba35a088db0ae5de5"
 metafile = true
 
 [[files]]
@@ -692,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-mod.pw.toml"
-hash = "985be1c6f04abed3097d5d2885539d6c42b652a152851c2af2546d53f2d033b7"
+hash = "d571ea1da9528bfacc975982ec194b67e1abfffbbe91bc48ae171ef1568d3745"
 metafile = true
 
 [[files]]
@@ -702,7 +707,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]
@@ -742,7 +747,7 @@ metafile = true
 
 [[files]]
 file = "mods/theres-something-in-the-caves.pw.toml"
-hash = "473f70e11af8b4de926ec727b140ee7e16842ad955ad3c15ae03ab54f2991238"
+hash = "985f512d6f416ca8b7563629d530be962a47a46d202b3ace4a987eb6b605cb18"
 metafile = true
 
 [[files]]
