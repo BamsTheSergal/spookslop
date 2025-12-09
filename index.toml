@@ -641,13 +641,8 @@ hash = "6db079b4b12f1b14243980080879cc40087c3507f3ad25adf97e5f0ce9bb163b"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "08df98fe6ca70335ac9d364232bbf4a2bfc8d331cf0fac805a09741b19e8756e"
-metafile = true
-
-[[files]]
 file = "mods/sleep-in-darkness.pw.toml"
-hash = "2c6df07248470f10318481e7880a4c353303f4f617aa9a149ac90ceba88195ed"
+hash = "c96cbfa4375ee420871759109238e8ce9d280c0e43d14432887222efabf0946f"
 metafile = true
 
 [[files]]
