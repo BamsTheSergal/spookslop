@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/modern-temperature.pw.toml"
-hash = "28806a0ddb35e061552daf8411a48c4d44bf22241074d9598a4abd2290c13227"
+hash = "c51a29cbcb43aa410255ea6f7b1bf84da4985a19ddb9952f9ae91417193121b4"
 metafile = true
 
 [[files]]
