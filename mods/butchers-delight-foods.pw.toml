@@ -3,11 +3,11 @@ filename = "Butchersdelight Foods beta 1.20.1 1.0.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "26d05418d4f6e683946a9096f9250d9fbd4ff453"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/u9J9M7PQ/versions/dyDh7Fxr/Butchersdelight%20Foods%20beta%201.20.1%201.0.3.jar"
+hash-format = "sha512"
+hash = "20b48f5450e1ce3d02a677c1b3f25cf3275b80c929708cf0abf6a1ca547766c7d3da2cc1fa766698df57f050f8651ae0395d814193ef5db4fce4e500ca8bf626"
 
 [update]
-[update.curseforge]
-file-id = 5230731
-project-id = 919301
+[update.modrinth]
+mod-id = "u9J9M7PQ"
+version = "dyDh7Fxr"

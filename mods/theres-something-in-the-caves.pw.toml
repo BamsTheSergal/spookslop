@@ -3,11 +3,11 @@ filename = "there_is_something_in_the_caves-1.0.2-forge-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c5ff8855fd948fd21b6ebd54a3d039bdcd8a2f8f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oZ9eTp2y/versions/e38y4n0S/there_is_something_in_the_caves-1.0.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "cc3ff7b749f748c16f3d6e53fb63997565c154f45b41f2e6f65bb4f42f38bc91ff5b3552ef757ec95e3e832042f64d8311e451cda9a6bff1257899783c6c8c7c"
 
 [update]
-[update.curseforge]
-file-id = 6014240
-project-id = 827291
+[update.modrinth]
+mod-id = "oZ9eTp2y"
+version = "e38y4n0S"
