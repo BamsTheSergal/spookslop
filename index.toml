@@ -11,6 +11,11 @@ hash = "5d3f94d4280b3367a376f086018a4005866ddecbe80b6abb0849e5d995a98e9d"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "5a53be204efcb61ed865b934d60f0ed29fa74d02ebecb1276f668d6baa57e40b"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "892330f5c44888f1fbdd552b728acf89af7bc32a8cbb9ff5cd17c4a453508fc4"
 metafile = true
@@ -53,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/better-foliage-renewed.pw.toml"
 hash = "e65895da85cfabf53c1cca6eb26d39bac71d3628cfd1675c7cbf84395d8a2466"
-metafile = true
-
-[[files]]
-file = "mods/better-forests.pw.toml"
-hash = "760557cdcf2b60f7f65333a5217120152cd09318f643d928ae501aaa0fa87092"
 metafile = true
 
 [[files]]
@@ -533,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/monster-hunter-villager.pw.toml"
 hash = "307a8165644eb54f1b1cc639527dfa1d454e4cc7410b1e0cdb80162872a29f51"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "8dd17f19e28b517c1ce56a2024ece8a37ca9bc866079d23969cc3811577861a4"
 metafile = true
 
 [[files]]
