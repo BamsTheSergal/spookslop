@@ -436,6 +436,11 @@ hash = "2f4dd47f2ac99a55c332638116596bbdc38a06ac86336bb662e42c604c3a96e6"
 metafile = true
 
 [[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "589b370ffcef405a00daafc5bfa6febaeafef81aa797a3cb63a49555db90fd76"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "d46c6ec5e8661d7b7506ecd1d6fd478a35b013d213aa62b1c464b3f068dd97ea"
 metafile = true
@@ -642,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep-in-darkness.pw.toml"
-hash = "c96cbfa4375ee420871759109238e8ce9d280c0e43d14432887222efabf0946f"
+hash = "a841280c51b4841e809b42ab20b7d1d9cd57b37e69038b019c2bce43daa30588"
 metafile = true
 
 [[files]]
