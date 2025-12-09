@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -487,7 +487,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "c8c25cccf1f0c3aaa0a5639f28f40d61b4eadd3130558b39ce6c279b8b775556"
+hash = "27f69e040bd3275a1ee455353f1ad31b69200d72122308ead260522a6c2525e0"
 metafile = true
 
 [[files]]
@@ -667,12 +667,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-embeddium-options-mod-compat.pw.toml"
-hash = "0b927cc6d4a5fd61c5f627ea99334a27751289045a66e7f99069e8f492a7a90d"
+hash = "9b5717d28b2827382194e8cc55219e6a98774e804f82cd04d802c213faad6f1b"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+hash = "bec4fd7f9b90e9040786e31d14bf4af7fb42fce842b9f5acfdd0821c973ecb82"
 metafile = true
 
 [[files]]
