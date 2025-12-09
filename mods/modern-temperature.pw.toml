@@ -1,0 +1,13 @@
+name = "Modern Temperature"
+filename = "moderntemperature-0.2.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3dcfc19a71b604ad76bb69fb60eb26e4e46b3f68"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7099689
+project-id = 1359820

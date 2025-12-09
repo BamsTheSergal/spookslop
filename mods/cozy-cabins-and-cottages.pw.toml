@@ -1,0 +1,13 @@
+name = "Cozy Cabins and Cottages"
+filename = "cozy_cabins_and_cottages-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cef2907ca71509af8300e9936b92a96af56799be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6609316
+project-id = 1279039

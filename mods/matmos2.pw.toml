@@ -1,0 +1,13 @@
+name = "MAtmos ambient sound"
+filename = "matmos_tct-7.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ee4e566cc2b57b12b8bf89e252e161eeab5c57c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7305408
+project-id = 548114

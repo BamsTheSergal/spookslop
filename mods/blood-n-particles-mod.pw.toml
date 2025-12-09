@@ -1,0 +1,13 @@
+name = "Blood N' Particles Mod"
+filename = "Blood N' Particles v1.4.0 - Forge 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09235be72d87aac3520db7ee497e6d97ff204f3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6850943
+project-id = 1149589
