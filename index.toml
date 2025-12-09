@@ -611,18 +611,8 @@ hash = "89e76fb4a341d14f4abcb8ad5b6a07bf50f61d45deb20a3dad7eae5a4b19578a"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "b8c2ba91c889b159d1b85c11293927958401b4df1898dced176bb70984a22259"
-metafile = true
-
-[[files]]
 file = "mods/ruins.pw.toml"
 hash = "5ff3faccf12802ab9daf52a5e396aa7cbf0d11918d61a49dbd087a36a1da83c1"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "c656c57a7a5c4116778fbe1432717d2d03d00382aac35ef368f842cdef4fc092"
 metafile = true
 
 [[files]]
