@@ -531,6 +531,11 @@ hash = "59a9bbe68d16fdb5955d9775cca44093e43660d67b3ab4fba35a088db0ae5de5"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "1588f074af0ca7a5145fd676faf3e14381bb96d1383a3dfbaac7398b1dc6e2fd"
+metafile = true
+
+[[files]]
 file = "mods/nyctophobia-forge.pw.toml"
 hash = "950a0ff04991442b4f1924d7508e5ea48cb5ae2e751d4a4f9857868c53fa380d"
 metafile = true
