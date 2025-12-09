@@ -151,6 +151,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/cobweb.pw.toml"
+hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
 metafile = true
@@ -708,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "4e0171baa817919422b027a64d97ef8ffc63879c94671b2fc42f191cc6f3900d"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+hash = "3e2d7a46dc4d6a3eb0679c64588b31c217a4ed35b661de2a70e7cf979f2342e4"
 metafile = true
 
 [[files]]
