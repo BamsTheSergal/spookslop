@@ -1,6 +1,7 @@
 # Modlist
 - [3d\-Skin\-Layers](https://modrinth.com/mod/3dskinlayers)
 - Accessories
+- Amendments
 - [Another Furniture](https://www.curseforge.com/minecraft/mc-mods/another-furniture)
 - [AppleSkin](https://github.com/squeek502/AppleSkin)
 - Architectury
@@ -18,17 +19,22 @@
 - Bobby Reforged
 - [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)
 - [Born in Chaos ](https://mcreator.net)
+- [BotanyPots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [BotanyTrees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
 - [Brewin' And Chewin'](https://github.com/MerchantPug/BrewinAndChewin)
 - [Burnt 1\.9\.1\.4 Forge 1\.20\.1](https://discord.com/invite/NUqTwsfTzn)
 - [ButchersDelight](https://www.curseforge.com/minecraft/mc-mods/butchers-delight)
 - [ButchersDelightfoods](https://www.curseforge.com/minecraft/mc-mods/butchers-delight)
 - [Camera Mod](https://www.curseforge.com/minecraft/mc-mods/camera-mod)
+- Caupona
 - Chefs Delight
 - [ChoiceTheorem's Overhauled Village](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village)
 - Clean Swing Through Grass
 - [Cloth Config v10 API](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge/)
+- [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 - [Cobweb](https://modrinth.com/mod/dQcfqGbl)
 - [Collective](https://serilum.com/mod/collective)
+- [Compressium](http://dinnerbeef.com)
 - Connector\-1\.0\.0\-beta\.47\+1\.20\.1
 - [Continuity](https://modrinth.com/mod/continuity)
 - [Controlling](https://minecraft.curseforge.com/projects/controlling)
@@ -56,6 +62,7 @@
 - [EnhancedVisuals](https://modrinth.com/mod/enhancedvisuals)
 - Entity Model Features
 - Entity Texture Features
+- [Every Compat](https://www.curseforge.com/minecraft/mc-mods/every-compat)
 - [Explorations\+](https://www.curseforge.com/minecraft/mc-mods/explorations)
 - FTB Library
 - FTB Ultimine
@@ -64,8 +71,10 @@
 - [Farmer's Delight](https://github.com/vectorwing/FarmersDelight)
 - Farmer's Respite
 - [FarmersStructures](http://discord.gg/8SsB8ar)
+- Ferrite Core
 - Forgified Fabric API
 - [Fragile Torches](https://www.curseforge.com/minecraft/mc-mods/fragile-torches/)
+- [From The Fog](https://lunareclipse.studio/creations/from-the-fog)
 - Galosphere
 - [GeckoLib 4](http://geckolib.com/)
 - GeckoLibIrisCompat
@@ -81,6 +90,7 @@
 - Immersive Weathering
 - [InControl](http://github.com/McJtyMods/InControl/)
 - [InsaneLib](https://github.com/Insane96/InsaneLib)
+- [Iron Furnaces](https://www.curseforge.com/minecraft/mc-mods/iron-furnaces/)
 - [Jade](https://minecraft.curseforge.com/projects/jade)
 - [JamLib](https://github.com/JamCoreModding/jamlib)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
@@ -140,7 +150,6 @@
 - Structure Essentials mod
 - [Structure Gel API](https://moddinglegacy.com/)
 - Supplementaries
-- Tenebrisque
 - [Tenna Deltarune Pet](https://www.curseforge.com/members/justapenguinhere/projects)
 - [TerraBlender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - Tetra's Delight
