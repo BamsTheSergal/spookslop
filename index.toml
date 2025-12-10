@@ -106,6 +106,16 @@ hash = "6982740effe481a28b71e4bd7eb9b1f255435db6b03a2f8c6ba553f697f53992"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "d439aaf90eb75c1e5cd3131450919f3ceedc7e0ddf66551e6b89872549b028dd"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "0e4cace0378d5b9de13402684df047ae862833249b098924a295eefc9788e703"
+metafile = true
+
+[[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "dc45e2a3431d818f9bb2b7217a62e62ec8f455ca37b9f4f35947d2c442bad42b"
 metafile = true
@@ -131,6 +141,11 @@ hash = "605d1f1ae3de3633229406d58ebff0fc51b159a9d6107cdf30a48d80ad9746b2"
 metafile = true
 
 [[files]]
+file = "mods/caupona.pw.toml"
+hash = "224ced2eac669efa7195f8aa5433198d00fb6d07b2f6f36161c052a9c19a3630"
+metafile = true
+
+[[files]]
 file = "mods/chefs-delight-forge.pw.toml"
 hash = "0ceded40872ea277e01d02d61db452c07eeed60506871c5d070582a6c0258694"
 metafile = true
@@ -151,6 +166,11 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "c6266e6abc3eb46a62db3d106a915c78d8bd40502e45c23c729bad7e21de1141"
 metafile = true
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "492359a6ce93fbf09eb6e1d20b761a5538fe9197e7d129949234d83b87e06bc1"
+metafile = true
+
+[[files]]
+file = "mods/compressium.pw.toml"
+hash = "925a429084a97ac7df571f00fb29e1480cea3d989b2a7949631af7f53da7a1d8"
 metafile = true
 
 [[files]]
@@ -311,6 +336,11 @@ hash = "049ddd4531f8f889e39fa5e35ab013cab38312d83db75fca24dc09f222bc9c21"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "c783397b906ea36009a01d839b3aee0494ea60dc23055bd1413167ef91d3f963"
+metafile = true
+
+[[files]]
 file = "mods/explorations.pw.toml"
 hash = "663f15df36a34300cb85730f7764d46f0589901f57e6123fa6ec9a53d776c083"
 metafile = true
@@ -338,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-structures.pw.toml"
 hash = "1c1c1a903167a496967a3f61cf7b91d8b61acadf79a7d13cbaf0ceaa3bd7739e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
@@ -443,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/insanelib.pw.toml"
 hash = "6243b28213ac4b03e1d713a41af95f5fea96840d4c09b59bf72b719a400e5684"
+metafile = true
+
+[[files]]
+file = "mods/iron-furnaces.pw.toml"
+hash = "00b99c6e27a898bd4032cf5e20b08e8b6c807c194d846f999aa6c4babb829cee"
 metafile = true
 
 [[files]]
