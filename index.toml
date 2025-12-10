@@ -576,6 +576,11 @@ hash = "c51a29cbcb43aa410255ea6f7b1bf84da4985a19ddb9952f9ae91417193121b4"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "bad5d109262b0a07d364973c7da2a4d2ac2c6279223c5c726d410035ef5a3665"
+metafile = true
+
+[[files]]
 file = "mods/monster-hunter-villager.pw.toml"
 hash = "307a8165644eb54f1b1cc639527dfa1d454e4cc7410b1e0cdb80162872a29f51"
 metafile = true
@@ -583,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "8dd17f19e28b517c1ce56a2024ece8a37ca9bc866079d23969cc3811577861a4"
+metafile = true
+
+[[files]]
+file = "mods/more-useful-copper.pw.toml"
+hash = "4e9e3cd7c6d9e014754799677047d377aa82ec8ce52335644483a1cbffd2905e"
 metafile = true
 
 [[files]]
